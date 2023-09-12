@@ -1,0 +1,12 @@
+[package]
+name = "rusty-files"
+version = "0.1.0"
+edition = "2021"
+authors = [ "malezjaa" ]
+description = "Rusty files is a simple collection of file functions that I use in my projects."
+license = "MIT"
+repository = "https://github.com/malezjaa/rusty-files"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
