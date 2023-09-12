@@ -54,7 +54,3 @@ labels:
   - name: "💾 Type: Docs"
     color: 2fbceb
     description: An issue/change with the documentation.
-
-  - name: "⚫ Won't fix"
-    color: C8D9E6
-    description: Reported issue is working as intended.
